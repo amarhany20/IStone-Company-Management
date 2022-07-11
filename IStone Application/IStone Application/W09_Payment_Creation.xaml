@@ -1,0 +1,23 @@
+﻿<Window x:Class="IStone_Application.W09_Payment_Creation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IStone_Application"
+        mc:Ignorable="d"
+        Title="Order's Payment
+        " Height="700" Width="1200" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="Marble Photo.jpg" Stretch="Fill" Margin="-3,0,-3,-3"/>
+        <Label x:Name="label_Title" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="55" Width="1174" HorizontalContentAlignment="Center" FontSize="18"/>
+        <DataGrid x:Name="datagrid_Payments" HorizontalAlignment="Left" Height="532" Margin="10,70,0,0" VerticalAlignment="Top" Width="1174" IsReadOnly="True" SelectionMode="Single"/>
+        <Label x:Name="label_PaymentName" Content="Payment Name:" HorizontalAlignment="Left" Margin="10,607,0,0" VerticalAlignment="Top" Width="205"/>
+        <Label x:Name="label_Amount" Content="Amount" HorizontalAlignment="Left" Margin="220,607,0,0" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="textbox_Name" HorizontalAlignment="Left" Height="23" Margin="10,638,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205"/>
+        <TextBox x:Name="textbox_Amount" HorizontalAlignment="Left" Height="23" Margin="220,638,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" MaxLength="9"/>
+        <Button x:Name="button_AddPayment" Content="Add Payment" HorizontalAlignment="Left" Margin="430,638,0,0" VerticalAlignment="Top" Width="125" Height="23" Click="button_AddPayment_Click"/>
+        <Button x:Name="button_DeleteSelectedPayment" Content="Delete Selected Payment" HorizontalAlignment="Left" Margin="954,638,0,0" VerticalAlignment="Top" Width="150" Height="23" Click="button_DeleteSelectedPayment_Click"/>
+        <Button x:Name="button_Back" Content="Back" HorizontalAlignment="Left" Margin="1109,638,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="button_Back_Click"/>
+
+    </Grid>
+</Window>

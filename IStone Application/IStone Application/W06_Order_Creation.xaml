@@ -1,0 +1,17 @@
+﻿<Window x:Class="IStone_Application.W06_Order_Creation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IStone_Application"
+        mc:Ignorable="d"
+       Title="Order Creation" Height="700" Width="1200" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="Marble Photo.jpg" Stretch="Fill" Margin="-3,0,-3,-3"/>
+        <Label x:Name="label_Title" HorizontalAlignment="Left" Height="81" Margin="10,10,0,0"  VerticalAlignment="Top" Width="1174" HorizontalContentAlignment="Center" FontSize="24"/>
+        <Label x:Name="label_OrderName" Content="Order Name :" HorizontalAlignment="Left" Margin="10,98,0,0" VerticalAlignment="Top" Width="198" Height="35"/>
+        <TextBox x:Name="textbox_OrderName" HorizontalAlignment="Left" Height="31" Margin="232,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="311"/>
+        <Button x:Name="button_CreateOrder" Content="Create Order" HorizontalAlignment="Left" Margin="10,593,0,0" VerticalAlignment="Top" Width="174" Height="68" IsDefault="True" Click="button_CreateOrder_Click"/>
+        <Button x:Name="button_Back" Content="Back" HorizontalAlignment="Left" Margin="1094,627,0,0" VerticalAlignment="Top" Width="90" Height="34" Click="button_Back_Click"/>
+    </Grid>
+</Window>

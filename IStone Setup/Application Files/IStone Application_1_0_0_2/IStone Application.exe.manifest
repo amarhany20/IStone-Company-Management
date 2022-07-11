@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="IStone Application.exe" version="1.0.0.2" publicKeyToken="9ce432ffb8992f06" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="marble_photo_1Ip_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="IStone Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="IStone Application.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IStone Application.exe" size="315304">
+      <assemblyIdentity name="IStone Application" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GH8zjR9OOJZ8vEZNt+uVnZg+MkmSN0UsFlqkM0JCZog=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="IStone Application.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="marble_photo_1Ip_icon.ico" size="42720">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jUcdi3NNDAZwxJsoUFk6s1BRq6LzEVg+U4eyRdVE5vs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=AMMAR\Ammar" issuerKeyHash="546a3e71c7960a0bf3f6352c940627c580de0a0a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pdzQIkOLZPl6kOxspAnQ0vhYpDAJEd8JtsV4zVCBnZI=</DigestValue></Reference></SignedInfo><SignatureValue>yW3dtGvO2UZ1gpR381lmk8Pr+8JR4KAbG+kmab0ERe4fdxc4RgEoa43L37Ad8PwHKQD7rlz4Qv+VBvODBBya2uq8WlOLJr2fld6adEeuMJcyY2pR7GJ5THGmifsCM1mxD6EV/3DOjy1I/E3LsCeoOI+IUWvrdRTBpQEVr36O/yQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4BTXkDyerON4RWt4tX7uwr5EjVzzZ3wh8OiQpE7aa9dWXq27xj7VwVypSj92TXZo6Tz3/DczGKbqSpL6VNZ0P2nldhQQBqYLxlyPyiloinC9vQQMC2KnzKkIersh8DjtKzXisnthvYt4Ty0hA+X+4sMrtrBwIeCGNJKYQ77/0VE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="929d8150cd78c5b609df110930a458f8d2d009a46cec907af9648b4322d0dca5" Description="" Url=""><as:assemblyIdentity name="IStone Application.exe" version="1.0.0.2" publicKeyToken="9ce432ffb8992f06" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AMMAR\Ammar</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/uVd6qsM5mt5eqHFBUYNKCQZAG9KemMo2xh7+FWBSO4=</DigestValue></Reference></SignedInfo><SignatureValue>W1QmPqJq6m1sy1Qwch1hw3rJl8AIrheK5tgeHZ1XGi2igPd5hSpvqmsKyrRn0O3shASSXADb4qky1RdPq4s6zio6BgxwKaBTtLQr7dn84i5kKvZJXMRSLNAIVOtagjZB4sSVL50eAR7GTHszSuJ6bfMmOUqgHQLvrtEqXg1Up7c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4BTXkDyerON4RWt4tX7uwr5EjVzzZ3wh8OiQpE7aa9dWXq27xj7VwVypSj92TXZo6Tz3/DczGKbqSpL6VNZ0P2nldhQQBqYLxlyPyiloinC9vQQMC2KnzKkIersh8DjtKzXisnthvYt4Ty0hA+X+4sMrtrBwIeCGNJKYQ77/0VE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQets33qlCy6JAMi8+g4Iv8zANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAQQBNAE0AQQBSAFwAQQBtAG0AYQByMB4XDTIwMTEwNTAxMjU0OFoXDTIxMTEwNTA3MjU0OFowITEfMB0GA1UEAx4WAEEATQBNAEEAUgBcAEEAbQBtAGEAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4BTXkDyerON4RWt4tX7uwr5EjVzzZ3wh8OiQpE7aa9dWXq27xj7VwVypSj92TXZo6Tz3/DczGKbqSpL6VNZ0P2nldhQQBqYLxlyPyiloinC9vQQMC2KnzKkIersh8DjtKzXisnthvYt4Ty0hA+X+4sMrtrBwIeCGNJKYQ77/0VECAwEAATANBgkqhkiG9w0BAQsFAAOBgQDAwn3WTkuDuiTYnIP3NceI+t0BJo0LvajNSaqzU14i4KCRvKWhOnnL4UPahfL/ovo2q281Eh8x83GOi6IJHXGFbaO9aTlFzAiUYlOpBCawwCofZNUzViuy+b0kQqCswPGmrCEJHlJi3+ZnKLB6R5GIq8rEksosVhcAx2nUb9If9Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="IStone_Application.W10_Order_Status"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IStone_Application"
+        mc:Ignorable="d"
+        Title="W6_CurrentJobStatus"  Height="700" Width="1200" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="Marble Photo.jpg" Stretch="Fill" Margin="-3,0,-3,-3"/>
+        <Label x:Name="label_Count" Content="" HorizontalAlignment="Left" Margin="1084,0,0,0" VerticalAlignment="Top" Width="95" Height="35"/>
+        <DataGrid x:Name="datagrid_CurrentJobs" HorizontalAlignment="Left" Height="519" Margin="10,34,0,0" VerticalAlignment="Top" Width="1169" IsReadOnly="True" SelectionMode="Single"/>
+        <Button x:Name="button_DrawingDone" Content="Drawing Done" HorizontalAlignment="Left" Margin="10,558,0,0" VerticalAlignment="Top" Width="160" Click="button_DrawingDone_Click" Height="47"/>
+        <Button x:Name="button_ProgramDone" Content="Program Done" HorizontalAlignment="Left" Margin="179,558,0,0" VerticalAlignment="Top" Width="159" Click="button_ProgramDone_Click" Height="47"/>
+        <Button x:Name="button_CuttingDone" Content="Cutting Done" HorizontalAlignment="Left" Margin="348,558,0,0" VerticalAlignment="Top" Width="160" Click="button_CuttingDone_Click" Height="47"/>
+        <Button x:Name="button_FinishingDone" Content="Finishing Done" HorizontalAlignment="Left" Margin="517,558,0,0" VerticalAlignment="Top" Width="159" Click="button_FinishingDone_Click" Height="47"/>
+        <Button x:Name="button_PolishingDone" Content="Polishing Done " HorizontalAlignment="Left" Margin="685,558,0,0" VerticalAlignment="Top" Width="160" Click="button_PolishingDone_Click" Height="47"/>
+        <Button x:Name="button_Delivered" Content="Delivered" HorizontalAlignment="Left" Margin="855,558,0,0" VerticalAlignment="Top" Width="159" Click="button_Delivered_Click" Height="47"/>
+        <Button x:Name="button_PaymentDone" Content="Payment Done" HorizontalAlignment="Left" Margin="1023,558,0,0" VerticalAlignment="Top" Width="160" Click="button_PaymentDone_Click" Height="47" />
+        <Button x:Name="button_EndJob" HorizontalAlignment="Left" Margin="517,612,0,0" Width="497" Height="51" VerticalAlignment="Top" Content="End Job" Click="button_EndJob_Click" FontSize="20"/>
+        <Button x:Name="button_Back" Content="Back" HorizontalAlignment="Left" Margin="1023,612,0,0" VerticalAlignment="Top" Width="156" Click="button_Back_Click" Height="51"/>
+        <Button x:Name="button_IncomingMarbleList" Content="Incoming Marble List" HorizontalAlignment="Left" Margin="10,612,0,0" VerticalAlignment="Top" Width="160" Height="48" Click="button_IncomingMarbleList_Click"/>
+        <Button x:Name="button_PaymentList" Content="Payment List" HorizontalAlignment="Left" Margin="179,612,0,0" VerticalAlignment="Top" Width="159" Height="48" Click="button_PaymentList_Click"/>
+        <Button x:Name="button_AddJobs" Content="Add Jobs" HorizontalAlignment="Left" Margin="348,612,0,0" VerticalAlignment="Top" Width="160" Height="48" Click="button_AddJobs_Click"/>
+    </Grid>
+</Window>

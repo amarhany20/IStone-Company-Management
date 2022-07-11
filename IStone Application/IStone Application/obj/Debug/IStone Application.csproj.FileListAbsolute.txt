@@ -1,0 +1,114 @@
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W01_SignIn.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.csprojAssemblyReference.cache
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\App.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application_MarkupCompile.cache
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application_MarkupCompile.lref
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W01_SignIn.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W02_MainMenu.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.exe.config
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.exe
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.pdb
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W01_SignIn.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W02_MainMenu.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.g.resources
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone_Application.Properties.Resources.resources
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.csproj.GenerateResource.cache
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.exe
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.pdb
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W03_Customer_Selection.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W04_Order_Selection.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W05_Customer_Creation.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W06_Order_Creation.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W07_Job_Creation.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W08_Incoming_Marble_Creation.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W09_Payment_Creation.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W10_Order_Status.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W11_Job_Status.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W12_AllCurrentlyJobs.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W13_Admin_Customer_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W14_Admin_Order_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W15_Admin_Job_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W16_Admin_Payment_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W17_Admin_Incoming_Marble_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W18_Admin_Outgoing_Marble_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W19_Admin_User_Edit.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W03_Customer_Selection.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W04_Order_Selection.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W05_Customer_Creation.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W06_Order_Creation.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W07_Job_Creation.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W08_Incoming_Marble_Creation.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W09_Payment_Creation.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W10_Order_Status.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W11_Job_Status.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W12_AllCurrentlyJobs.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W13_Admin_Customer_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W14_Admin_Order_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W15_Admin_Job_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W16_Admin_Payment_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W17_Admin_Incoming_Marble_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W18_Admin_Outgoing_Marble_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W19_Admin_User_Edit.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W20_User_Selection.g.cs
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\W20_User_Selection.baml
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.exe.manifest
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.application
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.exe.manifest
+C:\Users\Ammar\Desktop\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.application
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.exe.config
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.exe.manifest
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.application
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.exe
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\bin\Debug\IStone Application.pdb
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W02_MainMenu.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W03_Customer_Selection.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W04_Order_Selection.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W05_Customer_Creation.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W06_Order_Creation.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W07_Job_Creation.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W08_Incoming_Marble_Creation.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W09_Payment_Creation.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W10_Order_Status.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W11_Job_Status.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W12_AllCurrentlyJobs.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W13_Admin_Customer_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W14_Admin_Order_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W15_Admin_Job_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W16_Admin_Payment_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W17_Admin_Incoming_Marble_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W18_Admin_Outgoing_Marble_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W19_Admin_User_Edit.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W20_User_Selection.g.cs
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W01_SignIn.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W02_MainMenu.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W03_Customer_Selection.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W04_Order_Selection.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W05_Customer_Creation.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W06_Order_Creation.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W07_Job_Creation.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W08_Incoming_Marble_Creation.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W09_Payment_Creation.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W10_Order_Status.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W11_Job_Status.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W12_AllCurrentlyJobs.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W13_Admin_Customer_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W14_Admin_Order_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W15_Admin_Job_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W16_Admin_Payment_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W17_Admin_Incoming_Marble_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W18_Admin_Outgoing_Marble_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W19_Admin_User_Edit.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\W20_User_Selection.baml
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.g.resources
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone_Application.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.exe.manifest
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.application
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.exe
+E:\Private\Ammar's Programs\WPF\8. IStone Application\IStone Application\IStone Application\obj\Debug\IStone Application.pdb
